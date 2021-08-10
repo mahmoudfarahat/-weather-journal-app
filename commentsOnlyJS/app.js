@@ -1,4 +1,7 @@
 // Personal API Key for OpenWeatherMap API
+ 
+
+
 
 // Event listener to add function to existing HTML DOM element
 
@@ -8,5 +11,5 @@
 
 /* Function to POST data */
 
-
+ 
 /* Function to GET Project Data */

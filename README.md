@@ -1,4 +1,29 @@
-# Weather-Journal App Project
+ # Project Name
+Weather-Journal App Project
+
+# Student Name
+
+Mahmoud Farahat Eldesoky
+
+
+# Resoucres
+
+udacity webinar 
+
+w3school
+
+developer.mozilla
+
+
+
+# what is that ? 
+
+
+you put the zipcode , and you will get the weather infomation and the city of this zipcode
+
+
+
+
 
 ## Overview
 This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 

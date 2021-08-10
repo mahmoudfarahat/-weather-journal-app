@@ -16,6 +16,13 @@ app.use(bodyParser.json());
 
 // Cors for cross origin allowance
 app.use(cors())
+
+app.post("saveAllData" , (req, res) =>{
+    projectData = req.body
+
+} )
+
+
 // Initialize the main project folder
 app.use(express.static('website'));
 
