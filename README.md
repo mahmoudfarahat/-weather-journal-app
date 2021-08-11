@@ -10,6 +10,8 @@ Mahmoud Farahat Eldesoky
 
 i learnt this logic from udacity webinar 
 
+and from udacity project corrections
+
 and some tips from
 
 w3school

@@ -62,6 +62,19 @@ const dataResponse = await fetch("/getAllData" , {
 const finalData = await dataResponse.json()
 console.log(finalData)
 
+//getting data in the ui ( in the three div)
+    const request = await fetch("/getAllData");
+    try {
+    const allData = await request.json();
+   
+    document.getElementById("date").innerHTML = `Date : ${allData.date}`;
+    document.getElementById("temp").innerHTML =` Temperature : ${allData.temp}`;
+    document.getElementById("content").innerHTML = `I feel: ${allData.content}`;
+    } catch (error) {
+    console.log("error", error);
+    }
+     
+
 // handling error messages
 }catch(err){
     console.log(err )
