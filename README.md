@@ -8,7 +8,9 @@ Mahmoud Farahat Eldesoky
 
 # Resoucres
 
-udacity webinar 
+i learnt this logic from udacity webinar 
+
+and some tips from
 
 w3school
 
@@ -19,10 +21,10 @@ developer.mozilla
 # what is that ? 
 
 
-you put the zipcode , and you will get the weather infomation and the city of this zipcode
-
-
-
+you put the zipcode , and you will get the weather infomation of this zipcode, information are 
+ date
+ temp 
+ content 
 
 
 ## Overview
